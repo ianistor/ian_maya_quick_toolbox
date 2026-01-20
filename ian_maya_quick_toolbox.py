@@ -11,7 +11,7 @@ WINDOW_WIDTH = 300
 WINDOW_HEIGHT = 250
 DEFAULT_NEAR_CLIP = 1
 DEFAULT_FAR_CLIP = 1000000000
-AUTHOR = 'ianistor@gmail.com'
+AUTHOR = 'ndrnistor@gmail.com'
 TOOL_NAME = 'IAN Maya Quick Toolbox'
 VERSION = "1.1"
 
